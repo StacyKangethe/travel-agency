@@ -1,8 +1,4 @@
-ul{
-  text-align: center;
-}
 h2.tropical{
-  text-align: center;
   font-weight: bold;
   color: #f7325e;
 }
@@ -18,7 +14,6 @@ ul.tropical{
 }
 
 h2.popular{
-  text-align: center;
   font-weight: bold;
   color: #f7335f
 }
@@ -28,4 +23,11 @@ ul.popular{
 }
 html{
   background-color: grey;
+}
+.sidebar{
+  float: right;
+}
+
+.popular{
+  float: left;
 }
